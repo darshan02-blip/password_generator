@@ -30,5 +30,5 @@ password_generator/
    cd password_generator
 ## 📸 Demo
 
-![Password Generator Demo] "F:\password_generator\screenshoot\Screenshot 2025-08-29 232825.png"
+"F:\password_generator\screenshoot\Screenshot 2025-08-29 232825.png"
 
